@@ -89,13 +89,13 @@ public class StringJoinerTest {
     }
 }
 
-Output
-joined String by a comma: Sony,Apple,Google
-joined String by pipe: iPhone|iPhone6|iPhone6S
-bestCreditCards: Citibank,Bank Of America,Chase
-path in Linux : /usr/local/bin
-path in Windows : C:\Program Files\Java
-joining list elements: home loan,personal loan,car loan,balance transfer
-joining array elements: admin fee;processing fee;monthly fee
-joining stream elements : LIFE INSURANCE, HEALTH INSURANCE, CAR INSURANCE
-joined : Please,Thanks
+//Output
+//joined String by a comma: Sony,Apple,Google
+//joined String by pipe: iPhone|iPhone6|iPhone6S
+//bestCreditCards: Citibank,Bank Of America,Chase
+//path in Linux : /usr/local/bin
+//path in Windows : C:\Program Files\Java
+//joining list elements: home loan,personal loan,car loan,balance transfer
+//joining array elements: admin fee;processing fee;monthly fee
+//joining stream elements : LIFE INSURANCE, HEALTH INSURANCE, CAR INSURANCE
+//joined : Please,Thanks
